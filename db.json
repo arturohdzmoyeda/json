@@ -5,7 +5,7 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": 
-    { "nombreDia": "Jueves", "mensajeNotificacion": "Tienes 8 notificación", "mensajeCalendario": "Ir al calendario" , "grados": 34},
+    { "nombreDia": "Miercoles", "mensajeNotificacion": "Tienes 9 notificación", "mensajeCalendario": "Ir al calendario" , "grados": 34},
   "profile": {
     "name": "typicode"
   }
