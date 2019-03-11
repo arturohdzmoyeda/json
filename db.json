@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "title": "Post 1" }
   ],
   "comments": 
     { "nombreDia": "Miercoles", "mensajeNotificacion": "Tienes 9 notificación", "mensajeCalendario": "Ir al calendario" , "grados": 34},
