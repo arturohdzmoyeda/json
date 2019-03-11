@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "social": [
     { "id": 1, "title": "Facebook", "img":"https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png" },
     { "id": 2, "title": "Linked In", "img":"https://www.iscariotmedia.com/wp-content/uploads/2015/01/IM_Blog-Posts-No-text-8.png" },
     { "id": 3, "title": "Google +", "img":"https://icons-for-free.com/free-icons/svg/128/252094.svg" },
@@ -7,7 +7,8 @@
   ],
   "comments": 
     { "nombreDia": "Miercoles", "mensajeNotificacion": "Tienes 9 notificación", "mensajeCalendario": "Ir al calendario" , "grados": 34},
-  "profile": {
-    "name": "typicode"
+  "users": {
+    "username": "arturo.hernandez",
+    "password": "Welcome1"
   }
 }
